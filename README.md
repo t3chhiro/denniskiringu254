@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @denniskiringu254
-- 👀 I’m interested in Cybersecurity (Redteam) plus curiosity in Software development.
+- 👋 Hi, I’m @denniskiringu
+- 👀 I’m interested in Cybersecurity (Redteam)  and got alot of curiosity in Software development.
 - 🌱 I’m currently learning Cyber Security on platforms such as HacktheBox and tryhackme. I also am learning about Software development(Fullstack).
 - 💞️ I’m looking to collaborate on Cyber security ctfs,hackathons and training.Penetration testing~Red teamer.
 - 📫 How to reach me ~ denniskiringu023@gmail.com
