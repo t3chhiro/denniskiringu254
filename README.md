@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @denniskiringu
-- 👀 I’m interested in Cybersecurity (Redteam)  and got alot of curiosity in Software development.
-- 🌱 I’m currently learning Cyber Security on platforms such as HacktheBox and tryhackme. I am also learning about Software development(Fullstack).
-- 💞️ I’m looking to collaborate with Cybersecurity practitioners and Software developers who highly participate in Cyber security ctfs,Dev hackathons and trainings so that we can learn and grow together.
-- 📫 How to reach me ~ denniskiringu023@gmail.com
+- 👋 Hi, I’m Dennis Kiringu.
+- 👀 I’m a Cyber Security enthusiast and also passionate about Software Engineering. (Curious about Software && Security).
+- 🌱 I’m currently learning/training Cyber Security on platforms such as HacktheBox and Tryhackme.
+- I am also learning about Fullstack Software Development on Alx Africa Program.
+- 💞️ I’m looking to collaborate with Cybersecurity practitioners/Professionals and Software developers in the industry so that we can learn and grow together.
+- 📫 How to reach me ~ kiringudennis@gmail.com
 
 <!---
 denniskiringu254/denniskiringu254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
