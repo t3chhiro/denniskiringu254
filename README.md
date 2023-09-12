@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dennis Kiringu.
-- 👀 I’m a passionate Techie moreso on Cyber Security.
+- 👀 I’m a passionate Techie specializing on Cyber Security (Red/blue/purple teaming)
 - 🌱 Focused in pentesting, vulnerability assesment, network security and monitoring, data privacy, information security, threat mitigation and incident response.
 - 💞️ I’m looking to collaborate with Cybersecurity practitioners/Professionals in the industry so that we can learn and grow together.
 - I am also passionate in Software and web development looking foward to developing the best problem solving softwares both locally and globally.
