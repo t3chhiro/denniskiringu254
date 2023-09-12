@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dennis Kiringu.
-- 👀 I’m a Cyber Security enthusiast and also passionate about Software Engineering. (Curious about Software && Security).
-- 🌱 I’m currently learning/training Cyber Security on platforms such as HacktheBox and Tryhackme.
-- I am also learning about Fullstack Software Development on Alx Africa Program.
-- 💞️ I’m looking to collaborate with Cybersecurity practitioners/Professionals and Software developers in the industry so that we can learn and grow together.
+- 👀 I’m a passionate Techie moreso on Cyber Security.
+- 🌱 Focused in pentesting, vulnerability assesment, network security and monitoring, data privacy, information security, threat mitigation and incident response.
+- 💞️ I’m looking to collaborate with Cybersecurity practitioners/Professionals in the industry so that we can learn and grow together.
+- I am also passionate in Software and web development looking foward to developing the best problem solving softwares both locally and globally.
 - 📫 How to reach me ~ kiringudennis@gmail.com
 
 <!---
