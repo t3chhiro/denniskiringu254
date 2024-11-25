@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Dennis Kiringu.
-- 👀 I’m a passionate Techie specializing on Cyber Security (Red/blue/purple team).
-- 🌱 Focused in pentesting, vulnerability assesment, network security and monitoring, data privacy, information security, threat mitigation and incident response.
-- 💞️ I’m looking to collaborate with Cybersecurity practitioners/Professionals in the industry so that we can learn and grow together.
-- I am also passionate in Software and web development looking foward to developing the best problem solving softwares both locally and globally.
+- 👀 I’m a Techie specializing on Cyber Security and Software development.
+- 🌱 Focused in back end development, pentesting, vulnerability assesment, network security and monitoring, data privacy, information security, threat mitigation and incident response.
+- 💞️ I’m looking to collaborate with Cybersecurity professionals and Developers in the industry so that we can learn and grow together.
 - 📫 How to reach me ~ kiringudennis@gmail.com
 
 <!---
